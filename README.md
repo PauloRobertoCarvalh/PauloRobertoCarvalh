@@ -2,15 +2,15 @@
 
 **`Estagiário de TI | Estudante de Sistemas de Informação na UFV`**
 
-Meu nome é Paulo Roberto Carvalho, tenho 22 anos, sou natural do Rio de Janeiro/RJ, nos períodos não letivos moro em São João del-Rei/MG, e atualmente vivo em Rio Paranaíba/MG, onde fica o campus da UFV 😅.
+Meu nome é Paulo Roberto Carvalho, tenho 22 anos, sou natural do Rio de Janeiro/RJ, nos períodos não letivos moro em São João del-Rei/MG, e atualmente,vivo em Rio Paranaíba/MG, onde fica o campus da UFV 😅.
 
-Estou finalizando meu curso de Bacharelado em Sistemas de Informação na Universidade Federal de Viçosa (UFV), atualmente no 7º período. Atuo como Estagiário de Tecnologia, com foco em desenvolvimento web (landing pages, sites, tpi, layouts de Email marketing), automação de processos, integração entre plataformas e resolução de problemas.
+Estou cursando Bacharelado em Sistemas de Informação na Universidade Federal de Viçosa (UFV), atualmente no 7º período. Atuo como Estagiário de Tecnologia, desenvolvendo soluções voltadas ao desenvolvimento web, incluindo landing pages, websites, TPI, layouts para e-mail marketing e interfaces responsivas. Também trabalho com automação de processos, integração entre plataformas, APIs, Webhooks e resolução de problemas técnicos, sempre buscando otimizar fluxos e aumentar a eficiência operacional.
 
-Ademais, atuo também como SDR e na estruturação de processos automatizados de prospecção e vendas, centralizando leads em CRMs, utilizando APIs e Webhooks para garantir fluxo de dados seguro, organizado e padronizado.
+Além da área de tecnologia, atuo como SDR, participando da estruturação de processos automatizados de prospecção e vendas. Tenho experiência na centralização de leads em CRMs, integração de sistemas e padronização do fluxo de dados, garantindo maior confiabilidade, organização e escalabilidade dos processos comerciais.
 
 Tenho boa capacidade de leitura, escrita e comunicação técnica em inglês, além de muito boa conversação, o que facilita o contato com documentações, ferramentas e ambientes profissionais.
 
-Possuo grande interesse em desenvolvimento de software, desenvolvimento web, backend e automações, buscando constantemente evoluir meu raciocínio lógico e entregar soluções mais eficientes e escaláveis. Me destaco pela facilidade de aprendizado, proatividade, boa comunicação e trabalho em equipe.
+Tenho grande interesse em desenvolvimento de software, desenvolvimento web, backend e automações. Busco constantemente aprimorar meus conhecimentos técnicos, desenvolver soluções escaláveis e aplicar boas práticas de engenharia de software. Sou uma pessoa proativa, com facilidade de aprendizado, raciocínio lógico, boa comunicação e espírito colaborativo, características que me permitem adaptar rapidamente a novos desafios e contribuir de forma efetiva para a equipe e para os resultados da organização.
 
 <p align="center">
     <a href="https://wa.me/5532988927451">
