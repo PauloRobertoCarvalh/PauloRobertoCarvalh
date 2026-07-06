@@ -2,7 +2,7 @@
 
 **`Estagiário de TI | Estudante de Sistemas de Informação na UFV`**
 
-Meu nome é Paulo Roberto Carvalho, tenho 22 anos, sou natural do Rio de Janeiro/RJ, nos dias não letivos moro em São João del-Rei/MG, e atualmente vivo em Rio Paranaíba/MG, onde fica o campus da UFV 😅.
+Meu nome é Paulo Roberto Carvalho, tenho 22 anos, sou natural do Rio de Janeiro/RJ, nos períodos não letivos moro em São João del-Rei/MG, e atualmente vivo em Rio Paranaíba/MG, onde fica o campus da UFV 😅.
 
 Estou finalizando meu curso de Bacharelado em Sistemas de Informação na Universidade Federal de Viçosa (UFV), atualmente no 7º período. Atuo como Estagiário de Tecnologia, com foco em desenvolvimento web (landing pages, sites, tpi, layouts de Email marketing), automação de processos, integração entre plataformas e resolução de problemas.
 
