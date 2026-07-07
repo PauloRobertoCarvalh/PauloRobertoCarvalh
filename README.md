@@ -166,6 +166,8 @@ Tenho grande interesse em desenvolvimento de software, desenvolvimento web, back
  • Looker Studio <br>
  • CataCliente <br>
  • Brevo <br>
+ • Bolten CRM <br>
+ • Kommo CRM <br>
  • Automações <br>
  • Programação Orientada a Objetos <br>
  • Resolução de problemas <br>
