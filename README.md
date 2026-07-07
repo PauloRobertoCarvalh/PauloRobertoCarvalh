@@ -174,7 +174,8 @@ Tenho grande interesse em desenvolvimento de software, desenvolvimento web, back
 
 🎮 **[Buzzinho](https://github.com/PauloRobertoCarvalh/JogoBuzzinho)** — Jogo inspirado em Space Invaders, desenvolvido em Python com Programação Orientada a Objetos para a disciplina de POO.<br>
 📱 **[Site Android](https://paulorobertocarvalh.github.io/projeto-android/)** — Site desenvolvido em HTML5 e CSS3.<br>
-📖 **[Projeto Cordel](https://paulorobertocarvalh.github.io/projeto-cordel/)** — Site desenvolvido em HTML5 e CSS3.
+📖 **[Projeto Cordel](https://paulorobertocarvalh.github.io/projeto-cordel/)** — Site desenvolvido em HTML5 e CSS3.<br>
+🏃 **[Projeto Avisador de Corridas](https://github.com/PauloRobertoCarvalh/Avisador-Corridas)** — Robô em Python que monitora novas corridas no portal Corridão e envia alertas automáticos por e-mail.<br>
 
 ---
 <br>
