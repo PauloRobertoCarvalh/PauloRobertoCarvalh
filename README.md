@@ -144,6 +144,14 @@ Tenho grande interesse em desenvolvimento de software, desenvolvimento web, back
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"                        
 />
+<img 
+ align="left" 
+ alt="Notion" 
+ title="Notion"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"                        
+/>
 <br/>
 <br/>
 
