@@ -160,6 +160,14 @@ Tenho grande interesse em desenvolvimento de software, desenvolvimento web, back
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"                        
 />
+<img 
+ align="left" 
+ alt="Redis" 
+ title="Redis"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"                        
+/>
 <br/>
 <br/>
 
@@ -168,6 +176,7 @@ Tenho grande interesse em desenvolvimento de software, desenvolvimento web, back
 ### 🛠️ Ferramentas e Habilidades
 
 • Make <br>
+• N8N <br>
 • RD Station<br>
  • Snov.io <br>
  • Monday <br>
