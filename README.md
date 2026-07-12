@@ -176,7 +176,7 @@ Tenho grande interesse em desenvolvimento de software, desenvolvimento web, back
 ### 🛠️ Ferramentas e Habilidades
 
 • Make <br>
-• N8N <br>
+• n8n <br>
 • RD Station<br>
  • Snov.io <br>
  • Monday <br>
